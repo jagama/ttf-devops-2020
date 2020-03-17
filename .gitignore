@@ -5,3 +5,4 @@
 vagrant/.vagrant
 vagrant/*.log
 node_modules
+dist
